@@ -1,5 +1,10 @@
-# Welcome to GitHub Desktop!
+This file is a jupyter notebook containing a small project that answers questions from the following content:
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Exercise Solve the following exercises in Jupyter Notebook, run all cells and download as pdfdocument. Return your pdf in Assignment 2 created under module Python Part I.1.Define two variables and assign them values of 100 and 29. After this, make the interpreter sum up the two numbers and multiply their result by 3. Calculate the 2ndexponent of the previous numberand save it to a new variable.Make the program print the result in the following way:The resultof the calculation was:149769Make sure you use valid variable names and name your variables meaningfully.Make sure that output of yourprogram has indentation as shown in the above example.2.Writea program thatcreatesa password by asking the user to input their name, age, year of birth. Save all in separate variables using the right type for each of them. Program shouldcreate the password in following way: takes last twodigits of year of birth, first 3 letters from name, and the 2ndpower of the age according to the example below:Name: JohnYear of birt: 1995Age: 26Password: 95Joh676Hint: to get the desired output in print() all variableshas to be type str.3.Write a program that asks for two numbers. If both numbersare even, the program prints "Both numbers are even." If only one of the numbers is even, the program prints "One of the numbers is even.". Finally, if neither of the numbers is even, the program prints "Both numbers are odd".First number: 5Second number: 6One of the numbers is even
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+The first exercise defines two variables, sums them, and multiplies the result by 3, then calculates the 2nd exponent of that number. 
+The second exercise creates a string based on various user inputs.
+The third exercise asks for two numbers and return if they are both even, both odd, or one of each.
+The fourth exercise asks the user for a number and then calculates the sum of all positive numvbers from 0 to the input.
+The fifth exercise creates a small guessing game where the object is the guess a randomly generated number. The computer keeps track of the number of guesses.
+The bonus exercise expands exercise five to include a second player.
